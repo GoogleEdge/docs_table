@@ -84,6 +84,16 @@ WinSCP官网：https://winscp.net/download/WinSCP-6.3.7-Setup.exe/download
 
 2.整合包服务端+汉化文件（来自Bilibili@柠娜）下载链接：[EP7-亡者世界](https://www.123865.com/s/ujrEjv-apvXv?pwd=teer#)
 
-3.游戏云购买链接(2-3人)：[雨云-新一代云服务器提供商](https://www.rainyun.com/rgs/techaser_?sp=g0EhYZ)
+### 8.Astrbot部署教程
 
-(4-6人)：[雨云-新一代云服务器提供商](https://www.rainyun.com/rgs/techaser_?sp=TNvLcu)
+1.雨云注册链接： [雨云-新一代云服务器提供商](https://www.rainyun.com/techaser_?s=bilibili)
+
+2.服务器购买链接(2h2g,江苏宿迁)：[雨云-新一代云服务器提供商](https://www.rainyun.com/rcs/techaser_?sp=IdERy1)
+
+3.代码：
+
+```bash
+#安装NAPCAT
+curl -o napcat.sh https://gh-proxy.org/https://raw.githubusercontent.com/NapNeko/napcat-linux-installer/refs/heads/main/install.sh && sudo bash napcat.sh
+```
+
